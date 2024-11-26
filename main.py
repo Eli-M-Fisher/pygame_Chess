@@ -1,3 +1,4 @@
+# Thanks and rights to lemastertech
 # two player chess in python with Pygame!
 # part one, set up variables images and game loop
 

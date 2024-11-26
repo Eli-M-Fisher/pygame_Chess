@@ -1,3 +1,4 @@
+# Thanks and rights to lemastertech
 # two player chess in python with Pygame!
 # pawn double space checking
 # castling
